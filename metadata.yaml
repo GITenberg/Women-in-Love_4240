@@ -1,0 +1,58 @@
+_repo: Women-in-Love_4240
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: "Women in Love is a novel by British author D. H. Lawrence, published\
+  \ in 1920. It is a sequel to his earlier novel The Rainbow (1915), and follows the\
+  \ continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun\
+  \ Brangwen, an artist, pursues a destructive relationship with Gerald Crich, an\
+  \ industrialist. Lawrence contrasts this pair with the love that develops between\
+  \ Ursula Brangwen and Rupert Birkin, an alienated intellectual who articulates many\
+  \ opinions associated with the author. The emotional relationships thus established\
+  \ are given further depth and tension by an intense psychological and physical attraction\
+  \ between Gerald and Rupert. The novel ranges over the whole of British society\
+  \ before the time of the First World War and eventually concludes in the snows of\
+  \ the Tyrolean Alps. Ursula's character draws on Lawrence's wife Frieda and Gudrun's\
+  \ on Katherine Mansfield, while Rupert Birkin's has elements of Lawrence and Gerald\
+  \ Crich's of Mansfield's husband, John Middleton Murry.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4240'
+  wikidata: Q2443714
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Midlands (England) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Coal mines and mining -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Male friendship -- Fiction'
+- GITenberg
+title: Women in Love
+url: http://www.gutenberg.org/ebooks/4240
+wikipedia:
+- https://fr.wikipedia.org/wiki/Femmes_amoureuses
+- https://nl.wikipedia.org/wiki/Liefde_en_vrouwen
+- https://hy.wikipedia.org/wiki/%D5%8D%D5%AB%D6%80%D5%A1%D5%B0%D5%A1%D6%80%D5%BE%D5%A1%D5%AE_%D5%AF%D5%A1%D5%B6%D5%A1%D5%B5%D6%84_(%D5%BE%D5%A5%D5%BA)
+- https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%A7%D9%86_%D8%B9%D8%A7%D8%B4%D9%82
+- https://en.wikipedia.org/wiki/Women_in_Love
+- https://it.wikipedia.org/wiki/Donne_innamorate
+- https://hr.wikipedia.org/wiki/Zaljubljene_%C5%BEene
+- https://zh.wikipedia.org/wiki/%E6%88%80%E6%84%9B%E4%B8%AD%E7%9A%84%E5%A5%B3%E4%BA%BA
